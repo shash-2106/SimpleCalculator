@@ -47,3 +47,10 @@ button {
     background-color: rgb(209, 207, 204);
 
 }
+.diff1 {
+    background-color: #bdd39f;
+}
+.diff2 {
+    background-color: #5e0d0d;
+    color:white;
+}
